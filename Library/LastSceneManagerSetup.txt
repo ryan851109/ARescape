@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/menu/scene/first_L2.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu/scene/start_L0.unity
+    guid: 98663be0cc310b749b3960c345e6ca9f
+  - enabled: 1
+    path: Assets/menu/scene/Menu_L1.unity
+    guid: cadef1524b693b34b82503effcca053a
+  - enabled: 1
+    path: Assets/menu/scene/Insnack.unity
+    guid: af2e75aafaf585f44ad77a285017ce78
+  - enabled: 1
+    path: Assets/menu/scene/first_L2.unity
+    guid: f7cb25479e5541d45a587bb9b61dd6a8
+  - enabled: 1
+    path: Assets/menu/scene/third_L4.unity
+    guid: 26d7d7423b03536498ba2f5d569ad9ce
+  - enabled: 1
+    path: Assets/menu/scene/cast_L5.unity
+    guid: e988dcb4486341a4584cda6b8fcce7a6
+  - enabled: 1
+    path: Assets/menu/scene/backpack.unity
+    guid: a92161bcb1a62044f9425c3d2c6a0c43
+  - enabled: 1
+    path: Assets/menu/scene/artest_L7.unity
+    guid: 713a02ceb167c304180a22d1c7eacdca
+  - enabled: 1
+    path: Assets/menu/scene/artestL8.unity
+    guid: 9d81a3ce6c6525b47b1ea5100d38d7c5
+  - enabled: 1
+    path: Assets/menu/scene/artestL9.unity
+    guid: d60d67bf1b025774dbce861619596503
+  - enabled: 1
+    path: Assets/menu/scene/artest10.unity
+    guid: a97de23d402770f4ebea834a6ecf87df
+  - enabled: 1
+    path: Assets/menu/scene/artest11.unity
+    guid: ffb301b06ab7d6e42bbfe28edae5fa83
+  - enabled: 1
+    path: Assets/menu/scene/second_L3.unity
+    guid: 51efde2288a9d7e4abbb79ec5e8ca54f
+  - enabled: 1
+    path: Assets/menu/scene/arfiredoor_L13.unity
+    guid: c67792108d025ad41a5cb2e1ace5454c
+  - enabled: 1
+    path: Assets/menu/scene/mailbox.unity
+    guid: a6d222ef581506a479ab4e03615595f9
+  - enabled: 1
+    path: Assets/menu/scene/tutorial.unity
+    guid: 3fdc97185d95b4b45a08fd7ee9a3700b

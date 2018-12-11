@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="power4" size="450.000000 337.347778" />
+    <ImageTarget name="power3" size="450.000000 337.347778" />
+    <ImageTarget name="power2" size="450.000000 337.347778" />
+    <ImageTarget name="power1" size="450.000000 337.347778" />
+    <ImageTarget name="paper" size="450.000000 600.270752" />
+    <ImageTarget name="firedoor" size="10.000000 15.061919" />
+    <ImageTarget name="80549" size="10.000000 5.627198" />
+    <ImageTarget name="80548" size="10.000000 5.627198" />
+    <ImageTarget name="80547" size="10.000000 5.627198" />
+    <ImageTarget name="30903" size="10.000000 7.501693" />
+    <ImageTarget name="Image" size="10.000000 7.501693" />
+    <ImageTarget name="55072" size="10.000000 13.330325" />
+    <ImageTarget name="firstFloor_bar" size="10.000000 11.203904" />
+    <ImageTarget name="computer_word" size="10.000000 14.113009" />
+    <ImageTarget name="card_machine" size="10.000000 7.143934" />
+    <ImageTarget name="mailbox" size="10.000000 10.510753" />
+    <ImageTarget name="cant_park" size="10.000000 5.575802" />
+  </Tracking>
+</QCARConfig>

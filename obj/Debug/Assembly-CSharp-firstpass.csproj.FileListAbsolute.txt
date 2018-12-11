@@ -1,0 +1,952 @@
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver3\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver4\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver4\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver4\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver4\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver6\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver6\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver6\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver6\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver7\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver7\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver7\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver7\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver10\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver10\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver11\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver12\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver12\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver12\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver12\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver13\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver13\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver13\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver13\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Unity Project\ARescape_ver14\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\ARescape_ver14\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Unity Project\ARescape_ver14\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity Project\ARescape_ver14\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver18\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\~BackUP\Program\Unity\ARescape_ver16\ARescape_ver19\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\nunit.framework.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Analytics.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Networking.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Timeline.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.UI.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.VR.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.UI.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.Cecil.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.DataContract.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\ExCSS.Unity.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.CecilTools.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.UI.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.UI.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Networking.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.TestRunner.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\nunit.framework.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.Timeline.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.HoloLens.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.VR.xml
+E:\人機互動\ARescape_verEND\ARescape\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\人機互動\ARescape_verEND\ARescape\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\人機互動\ARescape_verEND\ARescape\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\人機互動\ARescape_verEND\ARescape\obj\Debug\Assembly-CSharp-firstpass.pdb
